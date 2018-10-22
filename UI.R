@@ -1,3 +1,4 @@
+#the ui component creates the user interface i.e. what a user 'sees'
 ui <- fluidPage(
   column(width = 12,
     fluidRow(h2("A Study of Chick Weight as Influenced By Diet")),
